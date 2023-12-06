@@ -4,24 +4,24 @@
 }
 .button
 {
-     border-radius: 30px;
-     padding: 7px 12px;
-     background-color: #7e3f12;
-     color: white;
-     font-size: 7px;
-     border: 1px solid white;
+    border-radius: 30px;
+    padding: 12px 24px;
+    background-color: #7e3f12;
+    color: white;
+    font-size: 13px;
+    border: 1px solid white;
 
 }
 .main-content
 {
     text-align: center;
-    padding: 20px 55px;
+    padding: 20px 50px;
 }
 .main_paragraph
 {
     color: #7e3f12;
     padding-bottom: 5px;
-    font-size: 20px;
+    font-size: 40px;
 }
 .chocolate
 {
@@ -29,18 +29,15 @@
 }
 .small_p_1
 {
-    font-size: 9.5px;
-   align-items: center;
-
-  
+    font-size: 30px;
+    align-items: center;
 }
 .small_p
 {
-    font-size: 8.5px;
-   align-items: center;
-   color: rgb(157, 154, 154);
-   font-weight: 150;
-  
+    font-size: 15px;
+    align-items: center;
+    color: rgb(157, 154, 154);
+    font-weight: 150;
 }
 .every_menu
 {
@@ -48,43 +45,42 @@
     justify-content: space-between;
     align-items: center;
     margin-top: 4%;
-   
- 
+    padding: 10px 50px;
 }
 .what_we_sell
 {
-    padding: 10px 10px;
+    padding: 40px 10px;
 }
 .img_we_sell_1
 {
-    width: 100px;
-    height: 100px;
+    width: 250px;
+    height: 250px;
     position: center;
     background-size: center;
-    border-radius: 50px;
+    border-radius: 200px;
 }
 .img_we_sell_2
 {
-    width: 100px;
-    height: 100px;
+    width: 250px;
+    height: 250px;
     position: center;
     background-size: center;
-    border-radius: 50px;
+    border-radius: 200px;
+    margin-left: 20%;
 }
-
 
 .img_we_sell_3
 {
-    width: 100px;
-    height: 100px;
+    width: 250px;
+    height: 250px;
     position: center;
     background-size: center;
-    border-radius: 50px;
+    border-radius: 200px;
 }
 .hr
 {
     color: #7e3f12;
     border: 1px solid #7e3f12;
-    width: 40px;
+    width: 80px;
 }
 
