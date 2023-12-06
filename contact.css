@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+body {
+                
+                display: flex;
+                justify-content: space-between;
+                align-items: flex-start;
+                padding: 10px;
+ }
+    
+.contact-info {
+                flex: 1;
+                max-width: 700px;
+                padding: 20px 150px;
+             }
+    
+.reach-out-form {
+                flex: 1;
+                max-width: 400px;
+                padding: 70px 150px;
+
+               
+}
+h1{
+               color: rgb(110, 60, 23);
+}
+
+label {
+                display: block;
+                margin-bottom: 8px;
+             
+ }
+
+.contact
+{
+    
+padding-bottom: 5%;
+
+}
+    
+input, textarea {
+                width: 100%;
+                padding: 14px;
+                margin-bottom: 20px;
+               border-bottom: 2px solid rgb(125, 56, 7);
+
+               
+}
+
+.color
+{
+    color: rgb(110, 60, 23);
+    font-size: 18px;
+}
+
+p{
+    padding-bottom: 18px;
+}
+
+    form{
+        padding-top:40px ;
+    }
+
+ button {
+                
+                background-color: rgb(110, 60, 23);
+                color: white;
+                border: none;
+                cursor: pointer;
+                box-sizing: inherit;
+                border-radius: 30px;
+                padding: 12px 24px;
+                
+ }
+
+ .copyright{
+
+background-color: rgb(110, 60, 23);
+width: 100%;
+text-align: center;
+padding: 10px 25px;
+color: #f0f0f0;
+font-size: larger;
+
+ }
+
+ .hr{
+
+    color: rgb(120, 60, 15);
+    border: 2px solid rgb(140, 71, 23);
+    width: 170px;
+    margin-left: 18px;
+    margin-top: 12px;
+ }
+
+
